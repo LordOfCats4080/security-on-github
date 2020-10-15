@@ -1,0 +1,14 @@
+.env
+config.*
+.pem
+/private
+token.*
+secret.*
+settings.json
+/vscode
+/__pycache__
+.eslint
+.eslintrc.*
+.cer
+.vir
+.unknown
